@@ -24,13 +24,13 @@
 
 ### 🌱 Currently learning
 
-- Backend development with Java and C++  
-- Data structures, algorithms, and programming paradigms  
-- Fundamentals of **Machine Learning**, **Deep Learning**, and AI with Python  
-- **Computer Networks**: communication, protocols, DNS, TCP/IP  
-- **Software Engineering**: requirements, analysis, modeling, UML  
-- **Organization, teamwork, and collaborative methodologies**  
-- Using and optimizing Linux systems (**Arch, Debian, Ubuntu**)  
+- Sharpening my backend development skills with Java and C++.
+- Deepening my knowledge in data structures, algorithms, and programming paradigms.
+- Studying the fundamentals of Machine Learning, Deep Learning, and AI with Python.
+- Exploring Computer Networks: communication, protocols, DNS, and TCP/IP.
+- Learning about Software Engineering: requirements, analysis, modeling, and UML.
+- Improving my skills in organization, teamwork, and collaborative methodologies.
+- Mastering the use and optimization of Linux systems (Arch, Debian, Ubuntu).
 
 ---
 
