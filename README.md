@@ -39,12 +39,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-corte/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegocorte1771@gmail.com)
 
----
-
-### 🚀 Uma frase que me representa:
-
-> "*O único limite para os nossos sonhos é a nossa própria imaginação aplicada à realidade.*"
-
-
 ![Hello World](./Hello%20World.gif)
 
