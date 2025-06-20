@@ -1,13 +1,13 @@
-## Olá, eu sou o Diego Corte!
+## Hello, I’m Diego Corte!
 
-🎓 Estudante de **Engenharia de Software** na UTFPR - Cornélio Procópio  
-💻 Apaixonado por desenvolvimento de software, inteligência artificial e machine learning  
-🐧 Entusiasta do mundo Linux, com experiência em **Arch Linux**, **Debian** e **Ubuntu**  
-🧠 Fascinado por **Deep Learning**, **Machine Learning**, redes neurais e pensamento computacional  
+🎓 Software Engineering student at UTFPR - Cornélio Procópio  
+💻 Passionate about software development, artificial intelligence, and machine learning  
+🐧 Linux enthusiast with experience in **Arch Linux**, **Debian**, and **Ubuntu**  
+🧠 Fascinated by **Deep Learning**, **Machine Learning**, neural networks, and computational thinking  
 
 ---
 
-### 🚀 Tecnologias & Ferramentas
+### 🚀 Technologies & Tools
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -22,22 +22,21 @@
 
 ---
 
-### 🌱 Atualmente aprendendo
+### 🌱 Currently learning
 
-- Desenvolvimento backend em Java e C++
-- Estruturas de dados, algoritmos e paradigmas de programação
-- Fundamentos de **Machine Learning**, **Deep Learning** e IA aplicada com Python
-- **Redes de Computadores**: comunicação, protocolos, DNS, TCP/IP
-- **Engenharia de Software**: requisitos, análise, modelagem, UML
-- **Organização, trabalho em equipe e metodologias colaborativas**
-- Uso e otimização de sistemas Linux (**Arch, Debian, Ubuntu**)
+- Backend development with Java and C++  
+- Data structures, algorithms, and programming paradigms  
+- Fundamentals of **Machine Learning**, **Deep Learning**, and AI with Python  
+- **Computer Networks**: communication, protocols, DNS, TCP/IP  
+- **Software Engineering**: requirements, analysis, modeling, UML  
+- **Organization, teamwork, and collaborative methodologies**  
+- Using and optimizing Linux systems (**Arch, Debian, Ubuntu**)  
 
 ---
 
-### 🤝 Vamos nos conectar!
+### 🤝 Let’s connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-corte/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegocorte1771@gmail.com)
 
 ![Hello World](./Hello%20World.gif)
-
