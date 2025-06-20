@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou o Diego Corte!
+## Olá, eu sou o Diego Corte!
 
 🎓 Estudante de **Engenharia de Software** na UTFPR - Cornélio Procópio  
 💻 Apaixonado por desenvolvimento de software, inteligência artificial e machine learning  
