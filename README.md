@@ -43,11 +43,3 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegocorte1771@gmail.com)  
 
 ![Hello World](./Hello%20World.gif)
-
-
-<p>
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegocorteL33T&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=diegocorteL33T&theme=radical&layout=compact&exclude_lang=java+r" />
-</a>
-</p>
